@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"បាន​ចម្លង​តំណ​ទៅឃ្លីបបត"</string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"ចម្លង​តំណ"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"បើក​នៅក្នុង​កម្មវិធី​រុករកតាម​អ៊ីនធឺណិត"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"តំណចែករំលែក"</string>
+</resources>

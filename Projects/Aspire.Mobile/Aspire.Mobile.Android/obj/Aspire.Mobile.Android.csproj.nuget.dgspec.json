@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.Android/Aspire.Mobile.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.Android/Aspire.Mobile.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.Android/Aspire.Mobile.Android.csproj",
+        "projectName": "Aspire.Mobile.Android",
+        "projectPath": "/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.Android/Aspire.Mobile.Android.csproj",
+        "packagesPath": "/Users/annebrown/.nuget/packages/",
+        "outputPath": "/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/annebrown/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "AndHUD": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "NodaTime": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Plugin.CurrentActivity": {
+              "target": "Package",
+              "version": "[2.1.0.4, )"
+            },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.2.9, )"
+            },
+            "Xamarin.Android.Support.Compat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.4, )"
+            },
+            "Xamarin.AndroidX.AppCompat.Resources": {
+              "target": "Package",
+              "version": "[1.1.0.1, )"
+            },
+            "Xamarin.AndroidX.Arch.Core.Runtime": {
+              "target": "Package",
+              "version": "[2.1.0.6, )"
+            },
+            "Xamarin.AndroidX.Browser": {
+              "target": "Package",
+              "version": "[1.2.0.2, )"
+            },
+            "Xamarin.AndroidX.Legacy.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[1.0.0.5, )"
+            },
+            "Xamarin.AndroidX.Legacy.Support.V4": {
+              "target": "Package",
+              "version": "[1.0.0.5, )"
+            },
+            "Xamarin.AndroidX.Lifecycle.Service": {
+              "target": "Package",
+              "version": "[2.2.0.3, )"
+            },
+            "Xamarin.AndroidX.MediaRouter": {
+              "target": "Package",
+              "version": "[1.1.0.5, )"
+            },
+            "Xamarin.AndroidX.Migration": {
+              "target": "Package",
+              "version": "[1.0.7.1, )"
+            },
+            "Xamarin.AndroidX.Paging.Runtime": {
+              "target": "Package",
+              "version": "[2.1.2.5, )"
+            },
+            "Xamarin.AndroidX.Room.Runtime": {
+              "target": "Package",
+              "version": "[2.2.5.5, )"
+            },
+            "Xamarin.AndroidX.Work.Runtime": {
+              "target": "Package",
+              "version": "[2.3.4.6, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.8.0.1534, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[2.1.0.714, )"
+            },
+            "modernhttpclient-updated": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+services:
+  aspire.apiservices:
+    build:
+      context: /Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices
+      dockerfile: Aspire.ApiServices/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: aspire
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - /Users/annebrown/.aspnet/https:/root/.aspnet/https:ro
+    - /Users/annebrown/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

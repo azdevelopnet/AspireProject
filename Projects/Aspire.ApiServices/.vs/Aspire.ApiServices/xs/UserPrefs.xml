@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1DC34753-4AB5-423A-A8A6-458FF5E25703}|Default">
+  <MonoDevelop.Ide.ItemProperties.Aspire.ApiServices PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aspire.ApiServices/Dockerfile">
+    <Files>
+      <File FileName="Aspire.ApiServices/Controllers/AuthController.cs" Line="11" Column="38" />
+      <File FileName="Aspire.ApiServices/appsettings.json" />
+      <File FileName="Aspire.ApiServices/Startup.cs" Line="7" Column="30" />
+      <File FileName="Aspire.ApiServices/Services/MongoDbService.cs" Line="4" Column="31" />
+      <File FileName="Aspire.ApiServices/Models/Base/LiteDbBase.cs" Line="3" Column="1" />
+      <File FileName="Aspire.ApiServices/Extensions/AppExtensions.cs" Line="1" Column="14" />
+      <File FileName="Aspire.ApiServices/Dockerfile" Line="12" Column="9" />
+      <File FileName="Aspire.ApiServices/Controllers/UsersController.cs" Line="2" Column="33" />
+      <File FileName="Aspire.ApiServices/Models/Appointments.cs" Line="2" Column="1" />
+      <File FileName="Aspire.ApiServices/Models/UserInfo.cs" Line="3" Column="1" />
+      <File FileName="Aspire.ApiServices/Properties/launchSettings.json" Line="22" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aspire.ApiServices" expanded="True">
+            <Node name="Aspire.ApiServices" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Security" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+            <Node name="Aspire.ApiServices.XTest" expanded="True" />
+            <Node name="docker-compose" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

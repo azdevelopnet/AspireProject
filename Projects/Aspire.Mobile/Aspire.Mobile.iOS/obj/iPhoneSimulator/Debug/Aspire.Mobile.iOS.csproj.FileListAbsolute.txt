@@ -1,0 +1,196 @@
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.csprojAssemblyReference.cache
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/App.xaml.g.cs
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.csproj.CoreCompileInputs.cache
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Aspire.Mobile.iOS.exe
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Aspire.Mobile.iOS.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/BTProgressHUD.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/BTProgressHUD.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ModernHttpClient.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/NodaTime.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/NodaTime.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/BouncyCastle.Crypto.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/System.IO.Compression.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/System.Security.Cryptography.Encoding.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/TTGSnackbar.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/WebP.Touch.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.PancakeView.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.csproj.Fody.CopyLocal.cache
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.csproj.CopyComplete
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.exe
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.pdb
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/actool/_PartialAppManifest.items
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/actool/_BundleResourceWithLogicalName.items
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/coremlc/_PartialAppManifest.items
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/splash.png
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/splash@2x.png
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/splash@3x.png
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/lobbyimage.png
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/lobbyimage@2x.png
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/lobbyimage@3x.png
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/error_7
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/error_7@2x
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/error
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/error@2x
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/success_7
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/success_7@2x
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/success
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/success@2x
+/Users/lesliebrown/Projects/POC/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/actool/_PartialAppManifest.items
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/actool/_BundleResourceWithLogicalName.items
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/coremlc/_PartialAppManifest.items
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/splash.png
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/splash@2x.png
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/splash@3x.png
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/lobbyimage.png
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/lobbyimage@2x.png
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/lobbyimage@3x.png
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/error_7
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/error_7@2x
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/error
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/error@2x
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/success_7
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/success_7@2x
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/success
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/success@2x
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.0/optimized/
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.csprojAssemblyReference.cache
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/App.xaml.g.cs
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.csproj.CoreCompileInputs.cache
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Aspire.Mobile.iOS.exe
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Aspire.Mobile.iOS.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/BTProgressHUD.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/BTProgressHUD.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ModernHttpClient.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/NodaTime.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/NodaTime.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/BouncyCastle.Crypto.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/System.IO.Compression.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/System.Security.Cryptography.Encoding.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/TTGSnackbar.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/WebP.Touch.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.PancakeView.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.csproj.Fody.CopyLocal.cache
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.csproj.CopyComplete
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.exe
+/Users/annebrown/Desktop/Aspire_Project/AspireMobile/Aspire.Mobile/Aspire.Mobile/Aspire.Mobile.iOS/obj/iPhoneSimulator/Debug/Aspire.Mobile.iOS.pdb
