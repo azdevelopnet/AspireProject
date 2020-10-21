@@ -7,6 +7,8 @@ using Aspire.ApiServices.Models;
 using MongoDB.Driver;
 using Microsoft.Extensions.Configuration;
 using System.Threading.Tasks;
+using System.Security.Cryptography;
+using System.Text;
 
 namespace Aspire.ApiServices.Services
 {
@@ -21,14 +23,42 @@ namespace Aspire.ApiServices.Services
             {
                 if (_db == null)
                 {
-                    //var client = new MongoClient("mongodb+srv://aspireadmin:aspire2020@aspirecluster.908tz.azure.mongodb.net/Aspire?retryWrites=true&w=majority");
-                    //_db = client.GetDatabase("Aspire");
-
-                    var client = new MongoClient(ConnectionString);
+                   //var c = Encrypt(ConnectionString, "Aspire");
+                    var client = new MongoClient(Decrypt(ConnectionString, "Aspire"));
                     _db = client.GetDatabase(DatabaseName);
 
                 }
                 return _db;
+            }
+        }
+
+        private static string Encrypt(string source, string key)
+        {
+            using (TripleDESCryptoServiceProvider tripleDESCryptoService = new TripleDESCryptoServiceProvider())
+            {
+                using (MD5CryptoServiceProvider hashMD5Provider = new MD5CryptoServiceProvider())
+                {
+                    byte[] byteHash = hashMD5Provider.ComputeHash(Encoding.UTF8.GetBytes(key));
+                    tripleDESCryptoService.Key = byteHash;
+                    tripleDESCryptoService.Mode = CipherMode.ECB;
+                    byte[] data = Encoding.UTF8.GetBytes(source);
+                    return Convert.ToBase64String(tripleDESCryptoService.CreateEncryptor().TransformFinalBlock(data, 0, data.Length));
+                }
+            }
+        }
+
+        private static string Decrypt(string encrypt, string key)
+        {
+            using (TripleDESCryptoServiceProvider tripleDESCryptoService = new TripleDESCryptoServiceProvider())
+            {
+                using (MD5CryptoServiceProvider hashMD5Provider = new MD5CryptoServiceProvider())
+                {
+                    byte[] byteHash = hashMD5Provider.ComputeHash(Encoding.UTF8.GetBytes(key));
+                    tripleDESCryptoService.Key = byteHash;
+                    tripleDESCryptoService.Mode = CipherMode.ECB;
+                    byte[] data = Convert.FromBase64String(encrypt);
+                    return Encoding.UTF8.GetString(tripleDESCryptoService.CreateDecryptor().TransformFinalBlock(data, 0, data.Length));
+                }
             }
         }
     }

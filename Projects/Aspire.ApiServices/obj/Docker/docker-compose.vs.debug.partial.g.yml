@@ -12,17 +12,17 @@ services:
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      - NUGET_FALLBACK_PACKAGES=
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_aspire.apiservices$
     volumes:
       - /Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices:/app
       - /Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices:/src
       - /Users/lesbrown/vsdbg/vs2017u5:/remote_debugger:rw
-      - /Users/lesbrown/.nuget/packages/:/root/.nuget/packages:ro
+#$nuget_volume_mapping_aspire.apiservices$
 
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"/app/bin/Debug/netcoreapp3.1/Aspire.ApiServices.dll\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_aspire.apiservices$ \"/app/bin/Debug/netcoreapp3.1/Aspire.ApiServices.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true

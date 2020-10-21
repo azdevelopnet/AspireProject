@@ -22,8 +22,8 @@ namespace Aspire.ApiServices.XTest
             var url = baseUrl + "/Auth/Authenticate";
             var usr = new User()
             {
-                Email = "azdevelop.net@gmail.com",
-                Password = helper.CreateMD5("123")
+                Email = "admin@aspire.com",
+                Password = helper.CreateMD5("admin")
             };
             var result = await helper.PostAsync<RawString>(url, usr, new ApiKey()
             {

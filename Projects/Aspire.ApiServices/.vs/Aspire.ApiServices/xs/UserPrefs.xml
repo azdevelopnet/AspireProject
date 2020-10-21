@@ -1,16 +1,29 @@
 ﻿<Properties StartupConfiguration="{1DC34753-4AB5-423A-A8A6-458FF5E25703}|Default">
   <MonoDevelop.Ide.ItemProperties.Aspire.ApiServices PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Aspire.ApiServices.XTest/HttpTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aspire.ApiServices.XTest/UnitTestHelper.cs">
     <Files>
       <File FileName="Aspire.ApiServices.XTest/AppointmentTest.cs" Line="22" Column="1" />
-      <File FileName="Aspire.ApiServices.XTest/UsersTest.cs" Line="26" Column="55" />
-      <File FileName="Aspire.ApiServices.XTest/UnitTestHelper.cs" Line="37" Column="18" />
-      <File FileName="Aspire.ApiServices.XTest/HttpTest.cs" Line="10" Column="39" />
+      <File FileName="Aspire.ApiServices.XTest/UsersTest.cs" />
+      <File FileName="Aspire.ApiServices.XTest/UnitTestHelper.cs" Line="59" Column="1" />
+      <File FileName="Aspire.ApiServices.XTest/HttpTest.cs" Line="28" Column="1" />
+      <File FileName="Aspire.ApiServices/Startup.cs" />
+      <File FileName="Aspire.ApiServices/Services/MongoDbService.cs" />
+      <File FileName="Aspire.ApiServices/appsettings.json" />
+      <File FileName="Aspire.ApiServices/StartupHelper.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Aspire.ApiServices" expanded="True" selected="True" />
+          <Node name="Aspire.ApiServices" expanded="True">
+            <Node name="Aspire.ApiServices" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Aspire.ApiServices.XTest" expanded="True">
+              <Node name="HttpTest.cs" expanded="True">
+                <Node name="UnitTestHelper.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
@@ -18,9 +31,8 @@
           <Node name="Aspire.ApiServices" expanded="True">
             <Node name="Aspire.ApiServices.XTest" expanded="True">
               <Node name="Aspire.ApiServices.XTest" expanded="True">
-                <Node name="AppointmentTest" expanded="True" />
-                <Node name="UsersTest" expanded="True">
-                  <Node name="GetAllUsers" selected="True" />
+                <Node name="HttpTest" expanded="True">
+                  <Node name="Authenticate" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -35,6 +47,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices.XTest/AppointmentTest.cs" relfile="Aspire.ApiServices.XTest/AppointmentTest.cs" line="25" column="1" />
+      <Breakpoint file="/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices/Services/MongoDbService.cs" relfile="Aspire.ApiServices/Services/MongoDbService.cs" line="26" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
