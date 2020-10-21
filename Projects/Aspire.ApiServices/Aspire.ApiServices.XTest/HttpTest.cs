@@ -5,13 +5,13 @@ using Xunit;
 
 namespace Aspire.ApiServices.XTest
 {
-    public class UnitTest1
+    public class HttpTest
     {
         private UnitTestHelper helper;
 
         string baseUrl = "https://localhost:5001";
 
-        public UnitTest1()
+        public HttpTest()
         {
             helper = new UnitTestHelper();
         }

@@ -14,14 +14,19 @@ namespace Aspire.ApiServices.Services
     {
         private static IMongoDatabase _db;
         public static string ConnectionString { get; set; }
+        public static string DatabaseName { get; set; }
         public static IMongoDatabase Instance
         {
             get
             {
                 if (_db == null)
                 {
-                    var client = new MongoClient("mongodb+srv://aspireadmin:aspire2020@aspirecluster.908tz.azure.mongodb.net/Aspire?retryWrites=true&w=majority");
-                    _db = client.GetDatabase("Aspire");
+                    //var client = new MongoClient("mongodb+srv://aspireadmin:aspire2020@aspirecluster.908tz.azure.mongodb.net/Aspire?retryWrites=true&w=majority");
+                    //_db = client.GetDatabase("Aspire");
+
+                    var client = new MongoClient(ConnectionString);
+                    _db = client.GetDatabase(DatabaseName);
+
                 }
                 return _db;
             }
@@ -33,7 +38,12 @@ namespace Aspire.ApiServices.Services
         private IMongoCollection<T> collection;
 
         public MongoDbService(IConfiguration config)
-        { 
+        {
+            if (string.IsNullOrEmpty(MondbInstance.ConnectionString))
+            {
+                MondbInstance.ConnectionString = config["MongoConnection:ConnectionString"];
+                MondbInstance.DatabaseName = config["MongoConnection:Database"];
+            }
             collection = MondbInstance.Instance.GetCollection<T>($"{typeof(T).Name}s");
         }
 

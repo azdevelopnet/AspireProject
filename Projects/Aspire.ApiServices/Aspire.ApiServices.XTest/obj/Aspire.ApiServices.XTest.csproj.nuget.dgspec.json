@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices.XTest/Aspire.ApiServices.XTest.csproj": {}
+    "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices.XTest/Aspire.ApiServices.XTest.csproj": {}
   },
   "projects": {
-    "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices.XTest/Aspire.ApiServices.XTest.csproj": {
+    "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices.XTest/Aspire.ApiServices.XTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices.XTest/Aspire.ApiServices.XTest.csproj",
+        "projectUniqueName": "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices.XTest/Aspire.ApiServices.XTest.csproj",
         "projectName": "Aspire.ApiServices.XTest",
-        "projectPath": "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices.XTest/Aspire.ApiServices.XTest.csproj",
-        "packagesPath": "/Users/annebrown/.nuget/packages/",
-        "outputPath": "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices.XTest/obj/",
+        "projectPath": "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices.XTest/Aspire.ApiServices.XTest.csproj",
+        "packagesPath": "/Users/lesbrown/.nuget/packages/",
+        "outputPath": "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices.XTest/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/annebrown/.config/NuGet/NuGet.Config"
+          "/Users/lesbrown/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -27,10 +24,9 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices/Aspire.ApiServices.csproj": {
-                "projectPath": "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices/Aspire.ApiServices.csproj"
+              "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices/Aspire.ApiServices.csproj": {
+                "projectPath": "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices/Aspire.ApiServices.csproj"
               }
             }
           }
@@ -43,7 +39,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -85,20 +80,17 @@
         }
       }
     },
-    "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices/Aspire.ApiServices.csproj": {
+    "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices/Aspire.ApiServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices/Aspire.ApiServices.csproj",
+        "projectUniqueName": "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices/Aspire.ApiServices.csproj",
         "projectName": "Aspire.ApiServices",
-        "projectPath": "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices/Aspire.ApiServices.csproj",
-        "packagesPath": "/Users/annebrown/.nuget/packages/",
-        "outputPath": "/Users/annebrown/Desktop/Aspire_Project/AspireServices/Aspire.ApiServices/Aspire.ApiServices/obj/",
+        "projectPath": "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices/Aspire.ApiServices.csproj",
+        "packagesPath": "/Users/lesbrown/.nuget/packages/",
+        "outputPath": "/Users/lesbrown/Documents/GitHub/AspireProject/Projects/Aspire.ApiServices/Aspire.ApiServices/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/annebrown/.config/NuGet/NuGet.Config"
+          "/Users/lesbrown/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -108,7 +100,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -120,7 +111,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Humanizer.Core": {
               "target": "Package",
@@ -128,11 +118,11 @@
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.9, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.11.2, )"
+              "version": "[2.11.3, )"
             },
             "NSwag.AspNetCore": {
               "target": "Package",
@@ -140,11 +130,11 @@
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[6.7.1, )"
+              "version": "[6.8.0, )"
             },
             "System.Linq.Dynamic.Core": {
               "target": "Package",
-              "version": "[1.2.3, )"
+              "version": "[1.2.4, )"
             }
           },
           "imports": [

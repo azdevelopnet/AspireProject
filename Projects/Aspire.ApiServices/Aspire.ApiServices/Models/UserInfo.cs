@@ -28,6 +28,15 @@ namespace Aspire.ApiServices.Models
         [Description("Internist")]
         Internist
     }
+
+    public class ProviderDetail
+    {
+        public ProviderType ProviderType { get; set; }
+        public bool IsTakingPatients { get; set; }
+        public string[] Certifications { get; set; }
+        public DateTime PracticeDate { get; set; }
+    }
+
     public class User: MongoDbbase
     {
         public string Password { get; set; }
@@ -38,10 +47,10 @@ namespace Aspire.ApiServices.Models
         public string Email { get; set; }
         public Address Address { get; set; }
         public UserType UserType { get; set; }
-        public ProviderType? ProviderType { get; set; }
+        public ProviderDetail? ProviderDetail { get; set; }
         public string ProfileImageUrl { get; set; }
         public string ProfileImageBase64 { get; set; }
-        public InsuranceInfo InsuranceInfo { get; set; }
+        public InsuranceInfo? InsuranceInfo { get; set; }
     }
 
     public class InsuranceInfo

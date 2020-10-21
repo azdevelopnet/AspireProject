@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Text;
@@ -43,7 +44,98 @@ namespace Aspire.ApiServices
             var service = new MongoDbService<User>(config);
 
             var random = new Random();
-            var providerTypes = (ProviderType[])Enum.GetValues(typeof(ProviderType));
+
+            var providerTypes = new List<ProviderDetail>();
+            providerTypes.Add(new ProviderDetail()
+            {
+                 ProviderType = ProviderType.Cardiology,
+                 Certifications = new string[] {
+                     "State Board of Cardiology",
+                     "Family Medicine",
+                     "ABMS Cerfified"
+                 },
+                 IsTakingPatients=true,
+                 PracticeDate = DateTime.Now.AddMonths(-60)
+            });
+            providerTypes.Add(new ProviderDetail()
+            {
+                ProviderType = ProviderType.Endocrinology,
+                Certifications = new string[] {
+                     "State Board of Endocrinology",
+                     "Family Medicine",
+                     "ABMS Cerfified"
+                 },
+                IsTakingPatients = true,
+                PracticeDate = DateTime.Now.AddMonths(-70)
+            });
+            providerTypes.Add(new ProviderDetail()
+            {
+                ProviderType = ProviderType.FamilyMedicine,
+                Certifications = new string[] {
+                     "Family Medicine",
+                     "ABPS Cerfified"
+                 },
+                IsTakingPatients = true,
+                PracticeDate = DateTime.Now.AddMonths(-77)
+            });
+            providerTypes.Add(new ProviderDetail()
+            {
+                ProviderType = ProviderType.Internist,
+                Certifications = new string[] {
+                     "Family Medicine",
+                     "ABMS Cerfified",
+                     "ABPS Cerfified"
+                 },
+                IsTakingPatients = true,
+                PracticeDate = DateTime.Now.AddMonths(-30)
+            });
+            providerTypes.Add(new ProviderDetail()
+            {
+                ProviderType = ProviderType.Psychology,
+                Certifications = new string[] {
+                     "State Board of Psychology",
+                     "ABMP Cerfified",
+                     "ABPS Cerfified"
+                 },
+                IsTakingPatients = true,
+                PracticeDate = DateTime.Now.AddMonths(-80)
+            });
+            providerTypes.Add(new ProviderDetail()
+            {
+                ProviderType = ProviderType.Pediatrics,
+                Certifications = new string[] {
+                     "State Board of Pediatrics",
+                     "AAPS Cerfified",
+                     "ABPS Cerfified"
+                 },
+                IsTakingPatients = true,
+                PracticeDate = DateTime.Now.AddMonths(-80)
+            });
+            providerTypes.Add(new ProviderDetail()
+            {
+                ProviderType = ProviderType.Neurology,
+                Certifications = new string[] {
+                     "State Board of Neurology",
+                     "ABN Cerfified",
+                     "ABPS Cerfified"
+                 },
+                IsTakingPatients = true,
+                PracticeDate = DateTime.Now.AddMonths(-100)
+            });
+            providerTypes.Add(new ProviderDetail()
+            {
+                ProviderType = ProviderType.Oncology,
+                Certifications = new string[] {
+                     "State Board of Oncology",
+                     "ABN Cerfified",
+                     "ABPS Cerfified"
+                 },
+                IsTakingPatients = true,
+                PracticeDate = DateTime.Now.AddMonths(-150)
+            });
+
+
+
             var cityNames = new string[] { "Tempe", "Peoria", "Scottsdale", "Buckeye", "Sun City", "Mesa", "Phoenix", "Chandler", "Gilbert" };
 
             var usr = await service.GetFirstOrDefault(x => x.Email == "admin@aspire.com");
@@ -63,14 +155,14 @@ namespace Aspire.ApiServices
 
                 using (var http = new HttpClient())
                 {
-                    var result = await http.GetAsync("https://randomuser.me/api/?nat=us&results=700");
+                    var result = await http.GetAsync("https://randomuser.me/api/?nat=us&results=400");
                     var json = await result.Content.ReadAsStringAsync();
                     var root = JsonConvert.DeserializeObject<Root>(json);
-                    var arizonaResults = root.results.Where(x => x.location.state == "Arizona");
-                    foreach (var record in arizonaResults)
+
+                    foreach (var record in root.results)
                     {
                         var idx = random.Next(0, (cityNames.Length - 1));
-                        var providerIdx = random.Next(0, providerTypes.Length - 1);
+                        var providerIdx = random.Next(0, providerTypes.Count - 1);
 
                         insertResult = await service.Insert(new User()
                         {
@@ -85,11 +177,11 @@ namespace Aspire.ApiServices
                                 StreetAddress = $"{record.location.street.number} {record.location.street.name}",
                                 City = cityNames[idx],
                                 State = "AZ",
-                                Zip = record.location.postcode,
+                                Zip = 85204 //record.location.postcode,
                             },
                             UpdatedAt = DateTimeOffset.Now,
                             Active = true,
-                            ProviderType = providerTypes[providerIdx]
+                            ProviderDetail = providerTypes[providerIdx]
                         });
                     }
 

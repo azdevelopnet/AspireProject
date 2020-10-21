@@ -29,4 +29,9 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="UnitTestHelper.cs">
+      <DependentUpon>HttpTest.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>
